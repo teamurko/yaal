@@ -130,6 +130,17 @@ public class MiscUtils {
 		return result.toString();
 	}
 
+	public static int convertFromRoman(String number) {
+		int result = 0;
+		for (int i = 0; i < ROMAN_TOKENS.length; i++) {
+			while (number.startsWith(ROMAN_TOKENS[i])) {
+				number = number.substring(ROMAN_TOKENS[i].length());
+				result += ROMAN_VALUES[i];
+			}
+		}
+		return result;
+	}
+
 	public static int distance(int x1, int y1, int x2, int y2) {
 		int dx = x1 - x2;
 		int dy = y1 - y2;
@@ -153,5 +164,13 @@ public class MiscUtils {
 			for (int i = 0; i < array.length; i++)
 				array[i]--;
 		}
+	}
+
+	public static int[] getIntArray(String s) {
+		String[] tokens = s.split(" ");
+		int[] result = new int[tokens.length];
+		for (int i = 0; i < result.length; i++)
+			result[i] = Integer.parseInt(tokens[i]);
+		return result;
 	}
 }
