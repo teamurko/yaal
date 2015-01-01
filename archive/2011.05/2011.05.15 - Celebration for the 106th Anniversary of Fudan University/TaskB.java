@@ -12,7 +12,8 @@ public class TaskB implements Solver {
 	public void solve(int testNumber, net.egork.utils.old.io.old.InputReader in, PrintWriter out) {
 		int size = in.readInt();
 		int[] order = IOUtils.readIntArray(in, size);
-		SequenceUtils.transform(Array.wrap(order), new Function<Integer, Integer>() {ArrayWrapperublic Integer value(Integer argument) {
+		SequenceUtils.transform(Array.wrap(order), new Function<Integer, Integer>() {
+			public Integer value(Integer argument) {
 				return argument - 1;
 			}
 		});

@@ -28,7 +28,7 @@ public class TaskB {
 		MiscUtils.decreaseByOne(from, to);
 		Graph graph = BidirectionalGraph.createGraph(count, from, to);
 		IndependentSetSystem setSystem = new RecursiveIndependentSetSystem(count);
-		long[] size = new long[count];
+		final long[] size = new long[count];
 		Arrays.fill(size, 1);
 		answer = 0;
 		setSystem.setListener(new IndependentSetSystem.Listener() {

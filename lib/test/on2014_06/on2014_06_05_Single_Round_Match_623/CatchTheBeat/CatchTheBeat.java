@@ -14,8 +14,8 @@ public class CatchTheBeat {
 		for (int i = 0; i < n; i++) {
 			x[i] -= offset;
 		}
-		long[] u = new long[n];
-		long[] v = new long[n];
+		final long[] u = new long[n];
+		final long[] v = new long[n];
 		for (int i = 0; i < n; i++) {
 			u[i] = y[i] + x[i];
 			v[i] = y[i] - x[i];

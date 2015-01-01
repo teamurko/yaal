@@ -11,8 +11,8 @@ public class AliceAndFriends {
     public double getMoney(int[] cards) {
 		Arrays.sort(cards);
 		int total = 0;
-		int[] at = new int[cards.length * 6];
-		int[] value = new int[cards.length * 6];
+		final int[] at = new int[cards.length * 6];
+		final int[] value = new int[cards.length * 6];
 		int[] order = new int[cards.length * 6];
 		for (int i = 0; i < cards.length; i++) {
 			int size = 0;

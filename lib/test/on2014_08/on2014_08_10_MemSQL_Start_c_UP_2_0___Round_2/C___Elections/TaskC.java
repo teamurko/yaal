@@ -18,7 +18,7 @@ public class TaskC {
     public void solve(int testNumber, InputReader in, OutputWriter out) {
 		int count = in.readInt();
 		int[] vote = new int[count];
-		int[] bribe = new int[count];
+		final int[] bribe = new int[count];
 		IOUtils.readIntArrays(in, vote, bribe);
 		IntList[] voters = new IntList[100001];
 		for (int i = 0; i <= 100000; i++) {

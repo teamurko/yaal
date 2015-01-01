@@ -27,7 +27,7 @@ public class TaskE {
 		long[][] at = new long[parts][BUBEN + 1];
 		int[] qty = new int[parts];
 		int[] order = ArrayUtils.createOrder(BUBEN);
-		long[] endsIn = new long[count];
+		final long[] endsIn = new long[count];
 		for (int i = 0; i < count; i++) {
 			if (rate[i] == 0) {
 				endsIn[i] = Integer.MAX_VALUE;
