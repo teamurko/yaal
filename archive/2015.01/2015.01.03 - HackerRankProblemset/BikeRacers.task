@@ -1,0 +1,31 @@
+10 BikeRacers
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+36 3 3 2
+0 1
+0 2
+0 3
+100 1
+200 2 
+300 3
+5 40000
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+19 net.spak.BikeRacers
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.03
+20 HackerRankProblemset
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
