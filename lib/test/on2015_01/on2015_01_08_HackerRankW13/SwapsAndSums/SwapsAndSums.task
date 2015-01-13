@@ -1,0 +1,32 @@
+12 SwapsAndSums
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+39 6 4
+1 2 3 4 5 6
+1 2 5
+2 2 3
+2 3 4
+2 4 5
+5 5
+7
+9
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+62 on2015_01.on2015_01_08_HackerRankW13.SwapsAndSums.SwapsAndSums
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.08
+13 HackerRankW13
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

@@ -1,0 +1,45 @@
+9 LaserMaze
+12 MULTI_NUMBER
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+88 5
+2 5
+##^##
+S...G
+2 5
+##v##
+S...G
+1 5
+S..G<
+1 6
+S...G<
+5 5
+S....
+.....
+.>v..
+.^<..
+....G
+63 Case #1: 6
+Case #2: 4
+Case #3: 3
+Case #4: impossible
+Case #5: 8
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+18 net.spak.LaserMaze
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.08
+6 FB15_q
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

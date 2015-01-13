@@ -1,0 +1,29 @@
+25 C - New Year Book Reading
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+20 3 5
+1 2 3
+1 3 2 3 1
+
+3 12
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+68 on2015_01.on2015_01_11_Good_Bye_2014.C___New_Year_Book_Reading.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.11
+13 Good Bye 2014
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
