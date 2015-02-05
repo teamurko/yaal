@@ -1,5 +1,7 @@
 package net.egork.graph;
 
+import java.util.List;
+
 /**
  * @author egor@egork.net
  */
@@ -28,5 +30,15 @@ public class GraphAlgorithms {
 		if (size != count)
 			return null;
 		return queue;
+	}
+
+	public static void dfs(Graph graph, int v, boolean[] used, List<Integer> visited) {
+		used[v] = true;
+		for (Edge edge : graph.outbound(v)) {
+			if (!used[edge.getDestination()]) {
+				dfs(graph, edge.getDestination(), used, visited);
+			}
+		}
+		visited.add(v);
 	}
 }

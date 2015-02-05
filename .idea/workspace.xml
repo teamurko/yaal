@@ -2,71 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d974b4d0-f59c-4394-8a40-e0328c570b87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.03 - HackerRankProblemset/BikeRacers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.03 - HackerRankProblemset/BikeRacers.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/CircleCity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/CircleCity.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/ClosestNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/ClosestNumber/ClosestNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/ClosestNumber.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/ClosestNumber/ClosestNumber.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/EvenOddQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/EvenOddQuery/EvenOddQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/EvenOddQuery.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/EvenOddQuery/EvenOddQuery.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/LittleChammysHugeDonation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittleChammysHugeDonation/LittleChammysHugeDonation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/LittleChammysHugeDonation.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittleChammysHugeDonation/LittleChammysHugeDonation.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/LittlePandaPower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittlePandaPower/LittlePandaPower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/LittlePandaPower.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittlePandaPower/LittlePandaPower.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/EvenOddQuery/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittleChammysHugeDonation/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/LittlePandaPower/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaAndFactorials/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaLovesMaths/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/PossiblePath/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/Restaurant/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ReverseGame/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/SherlockAndDivisors/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/ClosestNumber/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SimilarPair/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SpecialMultiple/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ManasaAndFactorials.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaAndFactorials/ManasaAndFactorials.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ManasaAndFactorials.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaAndFactorials/ManasaAndFactorials.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ManasaLovesMaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaLovesMaths/ManasaLovesMaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ManasaLovesMaths.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ManasaLovesMaths/ManasaLovesMaths.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/PossiblePath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/PossiblePath/PossiblePath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/PossiblePath.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/PossiblePath/PossiblePath.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/Restaurant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/Restaurant/Restaurant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/Restaurant.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/Restaurant/Restaurant.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ReverseGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ReverseGame/ReverseGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/ReverseGame.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/ReverseGame/ReverseGame.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/SherlockAndDivisors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/SherlockAndDivisors/SherlockAndDivisors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.01 - HackerRankProblemset/SherlockAndDivisors.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_01_HackerRankProblemset/SherlockAndDivisors/SherlockAndDivisors.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/SimilarPair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SimilarPair/SimilarPair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/SimilarPair.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SimilarPair/SimilarPair.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/SpecialMultiple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SpecialMultiple/SpecialMultiple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.02 - HackerRankProblemset/SpecialMultiple.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test/on2015_01/on2015_01_02_HackerRankProblemset/SpecialMultiple/SpecialMultiple.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archive/archive.iml" afterPath="$PROJECT_DIR$/archive/archive.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/A - Amr and Music.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/A - Fox And Names.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/A - Maximum in Table.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/A - Pasha and Pixels.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/A.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/B - Amr and Pins.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/B - Anton and currency you all know.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/B - Fox And Jumping.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/B - Painting Pebbles.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015_r3/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015_r3/B.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.12 - TopCoder SRM #144/BinaryCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.12 - TopCoder SRM #144/BinaryCode.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/BuildingTowersEasy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/BuildingTowersEasy.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/C - Anya and Ghosts.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/C - Fox And Dinner.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/C - Guess Your Way Out!.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/C - Sums of Digits.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/ConvenientBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/ConvenientBlock.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/CtuRobots.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.24 - Single Round Match 647/CtuRobots.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/D - Restoring Numbers.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/D - Tanya and Password.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/D - The Maths Lecture.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015/D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.01 - SNWS2015/D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015/D.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.01 - SNWS2015/D.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/main/net/egork/graph/DFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/E - Arthur and Brackets.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/E - Breaking Good.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/E - Pretty Song.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015_r3/E.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/E.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.01 - SNWS2015/E.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.18 - SNWS2015_r3/E.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/E.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.01 - SNWS2015/E.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/F - Progress Monitoring.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/F.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/F.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - HackerRankProblemset/MaxSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - HackerRankProblemset/MaxSubarray.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - HackerRankProblemset/SherlockAndPermutations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - HackerRankProblemset/SherlockAndPermutations.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.23 - SNWS2015_r4/Task.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/TaskC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/TaskC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.02 - Codeforces Round #290 (Div. 1)/TaskC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/TaskD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/TaskD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.27 - Codeforces Round #288 (Div. 2)/TaskE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - Codeforces Round #287 (Div. 2)/TaskE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.02/2015.02.03 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)/TaskF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - Single Round Match 646/TheConsecutiveIntegersDivOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - Single Round Match 646/TheConsecutiveIntegersDivOne.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - Single Round Match 646/TheGridDivOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.15 - Single Round Match 646/TheGridDivOne.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - HackerRankProblemset/XorLove.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.28 - HackerRankProblemset/XorLove.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main/net/egork/graph/GraphAlgorithms.java" afterPath="$PROJECT_DIR$/lib/main/net/egork/graph/GraphAlgorithms.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archive/2015.01/2015.01.08 - HackerRankW13/SwapsAndSums.java" afterPath="$PROJECT_DIR$/archive/2015.01/2015.01.08 - HackerRankW13/SwapsAndSums.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="504fd17b-4883-4c04-b591-c04a5f28acfc" name="nfc" comment="Project" />
@@ -184,32 +196,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/test/on2014_08/on2014_08_10_MemSQL_Start_c_UP_2_0___Round_2/C___Elections/TaskC.java" />
-        <option value="$PROJECT_DIR$/lib/test/on2014_06/on2014_06_01_Codeforces_Round__250__Div__1_/B___The_Child_and_Zoo/TaskB.java" />
-        <option value="$PROJECT_DIR$/lib/test/on2014_06/on2014_06_05_Single_Round_Match_623/AliceAndFriends/AliceAndFriends.java" />
-        <option value="$PROJECT_DIR$/lib/test/on2014_08/on2014_08_01_Codeforces_Round__259__Div__1_/E___Little_Pony_and_Lord_Tirek/TaskE.java" />
-        <option value="$PROJECT_DIR$/lib/test/on2014_06/on2014_06_05_Single_Round_Match_623/CatchTheBeat/CatchTheBeat.java" />
-        <option value="$PROJECT_DIR$/archive/2014.09/2014.09 - September Challenge 2014/ChefAndSwapsTestCase.java" />
-        <option value="$PROJECT_DIR$/archive/2011.05/2011.05.15 - Celebration for the 106th Anniversary of Fudan University/TaskB.java" />
-        <option value="$PROJECT_DIR$/archive/2014.02/2014.02.16 - Rockethon 2014/TaskB.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/CircleCity.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/Restaurant.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/LittleChammysHugeDonation.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/ReverseGame.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/SherlockAndDivisors.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/EvenOddQuery.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/PossiblePath.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/ManasaAndFactorials.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/LittlePandaPower.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/ManasaLovesMaths.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/ClosestNumber.java" />
         <option value="$PROJECT_DIR$/lib/main/net/egork/misc/ArrayUtils.java" />
         <option value="$PROJECT_DIR$/main/net/spak/SpecialMultiple.java" />
         <option value="$PROJECT_DIR$/main/net/spak/MorganAndAString.java" />
-        <option value="$PROJECT_DIR$/main/net/spak/TeamFormation.java" />
         <option value="$PROJECT_DIR$/main/net/spak/SImilarPair.java" />
         <option value="$PROJECT_DIR$/main/net/spak/SimilarPair.java" />
         <option value="$PROJECT_DIR$/main/net/spak/BikeRacers.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaumAndBday.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/ASuperHero.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/C.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/CookingTheBooks.java" />
+        <option value="$PROJECT_DIR$/test/cookingthebooks.in" />
+        <option value="$PROJECT_DIR$/cookingthebooks.in" />
+        <option value="$PROJECT_DIR$/main/net/spak/NewYearResolution.java" />
+        <option value="$PROJECT_DIR$/test/newyearresolution.in" />
+        <option value="$PROJECT_DIR$/newyearresolution.in" />
+        <option value="$PROJECT_DIR$/main/net/spak/LaserMaze.java" />
+        <option value="$PROJECT_DIR$/main/lasermaze.in" />
+        <option value="$PROJECT_DIR$/lasermaze.in" />
+        <option value="$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntTreapArray.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/Node.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/SwapsAndSums.java" />
+        <option value="$PROJECT_DIR$/lib/main/net/egork/collections/GTreapArray.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/InsaneDFS.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/PriyankaAndToys.java" />
+        <option value="$PROJECT_DIR$/test/BinaryCode.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/BinaryCode.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TheConsecutiveIntegersDivOne.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TheGridDivOne.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/SherlockAndPermutations.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TeamFormation.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/MaxSubarray.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/B.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/Task.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/BuildingTowersEasy.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/CtuRobots.java" />
+        <option value="$PROJECT_DIR$/lib/main/net/egork/graph/DFS.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/ConvenientBlock.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/F.java" />
+        <option value="$PROJECT_DIR$/lib/main/net/egork/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/XorLove.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/D.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/E.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/A.java" />
+        <option value="$PROJECT_DIR$/test/Main.java" />
+        <option value="$PROJECT_DIR$/lib/main/net/egork/graph/GraphAlgorithms.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskA.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskB.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskC.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskE.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskD.java" />
+        <option value="$PROJECT_DIR$/main/net/spak/TaskF.java" />
       </list>
     </option>
   </component>
@@ -284,100 +321,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Yaal" />
@@ -412,130 +358,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="egork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="egork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2011.10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2011.10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2011.10.23 - CodeChef October Cook-Off" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PermuteDigits.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Yaal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2011.10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2011.10.23 - CodeChef October Cook-Off" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Favorites" />
     </panes>
   </component>
@@ -549,7 +374,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/archive" />
+    <property name="last_opened_file_path" value="/usr/bin/python2.7" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="algo" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -560,7 +385,7 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="options.lastSelected" value="reference.projectsettings.compiler.excludes" />
+    <property name="options.lastSelected" value="preferences.customizations" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -573,12 +398,18 @@
     <property name="extract.method.default.visibility" value="protected" />
     <property name="SearchEverywhereHistoryKey" value="Number&#9;PSI&#9;JAVA://java.lang.Number" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="net.egork.plugin" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.egork.collections.intervaltree" />
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\home\projects\algo\archive\2012.08\2012.08.14 - Codeforces Round #133" />
@@ -586,20 +417,6 @@
       <recent name="D:\home\projects\algo\main" />
       <recent name="D:\home\projects\algo\archive\2011.03\2011.03.27 - ITRIX 11 OPC" />
       <recent name="D:\home\projects\algo\archive\2011.03\2011.03.26 - Codeforces Beta Round #64" />
-    </key>
-    <key name="MoveMembersDialog.RECENTS_KEY">
-      <recent name="net.egork.string.StringUtils" />
-      <recent name="net.egork.collections.ArrayUtils" />
-      <recent name="net.egork.Flights" />
-      <recent name="net.egork.collections.CollectionUtils" />
-      <recent name="net.egork.numbers.Numbers" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\proj\algo\archive\2014.07\2014.07 - Weekly Challenges - Week 6" />
-      <recent name="C:\proj\algo\archive\2014.07\2014.07 - July Challenge 2014" />
-      <recent name="C:\proj\algo\archive\2014.08\2014.08.21 - SnarkNews Summer Series 2014 Round 3" />
-      <recent name="C:\proj\algo\archive\2014.08\2014.08 - Weekly Challenges - Week 9" />
-      <recent name="C:\proj\algo\archive\2014.09\2014.09 - Weekly Challenges - Week 10" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="net.egork.string" />
@@ -611,17 +428,31 @@
       <recent name="net.egork.Tree" />
       <recent name="net.egork.RobotMovings" />
     </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="net.egork.string.StringUtils" />
+      <recent name="net.egork.collections.ArrayUtils" />
+      <recent name="net.egork.Flights" />
+      <recent name="net.egork.collections.CollectionUtils" />
+      <recent name="net.egork.numbers.Numbers" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.spak" />
+      <recent name="net.egork.plugin" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="net.egork.utils.io" />
       <recent name="net.egork" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="net.egork.collections.intervaltree" />
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="C:\proj\algo\archive\2014.07\2014.07 - Weekly Challenges - Week 6" />
+      <recent name="C:\proj\algo\archive\2014.07\2014.07 - July Challenge 2014" />
+      <recent name="C:\proj\algo\archive\2014.08\2014.08.21 - SnarkNews Summer Series 2014 Round 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Task.MorganAndAString">
+  <component name="RunManager" selected="Task.A">
     <configuration default="false" name="TaskB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -676,14 +507,72 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="plugin" />
       <option name="VM_PARAMETERS" value=" -Xms128m -Xmx512m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="TopCoderTask" factoryName="TopCoder Task">
-      <taskConf />
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
@@ -730,6 +619,25 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -772,6 +680,23 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
@@ -793,6 +718,28 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -806,6 +753,10 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Task" factoryName="Task">
+      <taskConf />
       <method />
     </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
@@ -824,8 +775,23 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Task" factoryName="Task">
-      <taskConf />
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="archive" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -864,6 +830,24 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="A" type="Task" factoryName="Task">
+      <taskConf>main/net/spak/A.task</taskConf>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="InsaneDFS" type="Task" factoryName="Task">
+      <taskConf>main/net/spak/InsaneDFS.task</taskConf>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="MorganAndAString" type="Task" factoryName="Task">
       <taskConf>main/net/spak/MorganAndAString.task</taskConf>
       <RunnerSettings RunnerId="Run" />
@@ -872,19 +856,31 @@
     </configuration>
     <configuration default="false" name="TeamFormation" type="Task" factoryName="Task">
       <taskConf>main/net/spak/TeamFormation.task</taskConf>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Library test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TaskB" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.on2014_06 in lib" />
-      <item index="3" class="java.lang.String" itemvalue="Task.MorganAndAString" />
-      <item index="4" class="java.lang.String" itemvalue="Task.TeamFormation" />
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Task.A" />
+      <item index="1" class="java.lang.String" itemvalue="Task.InsaneDFS" />
+      <item index="2" class="java.lang.String" itemvalue="Task.MorganAndAString" />
+      <item index="3" class="java.lang.String" itemvalue="Task.TeamFormation" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Library test" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TaskB" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.on2014_06 in lib" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TaskB" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.on2014_06 in lib" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TaskB" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.on2014_06 in lib" />
       </list>
     </recent_temporary>
   </component>
@@ -1269,80 +1265,42 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55216014" sideWeight="0.49682036" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29503107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4751553" sideWeight="0.32960597" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5441968" sideWeight="0.7652081" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3340358" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32455215" sideWeight="0.32870865" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23136646" sideWeight="0.32938564" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992464" sideWeight="0.6700935" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944443" sideWeight="0.72149533" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22521138" sideWeight="0.5229456" order="0" side_tool="false" content_ui="combo" x="-476" y="120" width="473" height="1041" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32608697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="767" height="422" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36926362" sideWeight="0.7641409" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.72242993" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="92" y="92" width="767" height="422" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55216014" sideWeight="0.49682036" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3340358" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32455215" sideWeight="0.32870865" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36926362" sideWeight="0.7641409" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22521138" sideWeight="0.5229456" order="0" side_tool="false" content_ui="combo" x="-476" y="120" width="473" height="1041" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.72242993" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990655" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29503107" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4751553" sideWeight="0.32960597" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5441968" sideWeight="0.7652081" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4027671" sideWeight="0.7652081" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44875777" sideWeight="0.50115293" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23136646" sideWeight="0.32938564" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32455215" sideWeight="0.32870865" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52011925" sideWeight="0.3289777" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992464" sideWeight="0.6700935" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944443" sideWeight="0.72149533" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25749424" sideWeight="0.5229456" order="0" side_tool="false" content_ui="combo" x="-476" y="120" width="473" height="1041" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38258165" sideWeight="0.49884704" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="92" y="92" width="767" height="422" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36926362" sideWeight="0.7641409" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.72242993" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990655" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4751553" sideWeight="0.32960597" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1431,431 +1389,388 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
         </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NullPointerException" package="java.lang" />
-          <option name="timeStamp" value="93" />
-        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/net/spak/TeamFormation.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/net/spak/A.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="212" />
+      <option name="time" value="254" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Task">
+        <watch expression="to" language="JAVA" custom="" />
+      </configuration>
+      <configuration name="TopCoderTask">
+        <watch expression="d[1][5]" language="JAVA" custom="" />
+        <watch expression="d[2][5]" language="JAVA" custom="" />
+        <watch expression="d[3][5]" language="JAVA" custom="" />
+        <watch expression="d[4][25]" language="JAVA" custom="" />
+        <watch expression="d[5][25]" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_28_Addepar_Hackathon/SpecialNumbers/SpecialNumbers.java">
+    <entry file="file://$PROJECT_DIR$/main/net/spak/MorganAndAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06603774" vertical-offset="80" max-vertical-offset="504">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_28_Addepar_Hackathon/Engulf/Engulf.java">
+    <entry file="file://$PROJECT_DIR$/main/net/spak/MorganAndAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3300">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_28_Addepar_Hackathon/ConsistentSalaries/ConsistentSalaries.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/set/PersistentTreapSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
+        <state vertical-scroll-proportion="0.34615386" vertical-offset="0" max-vertical-offset="2286">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6043956" vertical-offset="266" max-vertical-offset="630">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/set/EHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386" vertical-offset="0" max-vertical-offset="936">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_28_Addepar_Hackathon/ComputingAnalytics/ComputingAnalytics.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntPair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.24725275" vertical-offset="0" max-vertical-offset="936">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_07/on2014_07_July_Challenge_2014/Garden_Game/GardenGame.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntSplaySet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4622642" vertical-offset="854" max-vertical-offset="1278">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state vertical-scroll-proportion="-14.5274725" vertical-offset="5414" max-vertical-offset="5778">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_07/on2014_07_July_Challenge_2014/Dish_Owner/DishOwner.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state vertical-scroll-proportion="-3.2527473" vertical-offset="1310" max-vertical-offset="1674">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/string/SubstringAutomaton.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5575221" vertical-offset="0" max-vertical-offset="1512">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_08/on2014_08_10_MemSQL_Start_c_UP_2_0___Round_2/C___Elections/TaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="1098">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_01_Codeforces_Round__250__Div__1_/B___The_Child_and_Zoo/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="918">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_05_Single_Round_Match_623/AliceAndFriends/AliceAndFriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50162864" vertical-offset="790" max-vertical-offset="1404">
-          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_08/on2014_08_01_Codeforces_Round__259__Div__1_/E___Little_Pony_and_Lord_Tirek/TaskE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20521173" vertical-offset="0" max-vertical-offset="2106">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2014.07/2014.07 - July Challenge 2014/ChefAndFrogs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15483871" vertical-offset="0" max-vertical-offset="648">
+        <state vertical-scroll-proportion="-0.6813187" vertical-offset="374" max-vertical-offset="738">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2014.08/2014.08.24 - SnarkNews Summer Series 2014 Round 4/TaskB.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/map/CPPMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.34615386" vertical-offset="0" max-vertical-offset="576">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2014.09/2014.09 - September Challenge 2014/ChefAndSwapsTestCase.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/map/CPPTreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.058631923" vertical-offset="36" max-vertical-offset="972">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2014_06/on2014_06_05_Single_Round_Match_623/CatchTheBeat/CatchTheBeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.058631923" vertical-offset="468" max-vertical-offset="1116">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2014.08/2014.08.01 - Codeforces Round #259 (Div. 1)/TaskE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2011.04/2011.04 - E-Olimp Weekly #22/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.077419356" vertical-offset="0" max-vertical-offset="594">
+        <state vertical-scroll-proportion="0.1978022" vertical-offset="54" max-vertical-offset="576">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2014.02/2014.02.16 - Rockethon 2014/TaskB.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/map/Indexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15483871" vertical-offset="0" max-vertical-offset="465">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="0.24725275" vertical-offset="0" max-vertical-offset="378">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2011.05/2011.05.15 - Celebration for the 106th Anniversary of Fudan University/TaskB.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27876106" vertical-offset="0" max-vertical-offset="1386">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="e#662#663#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.54395604" vertical-offset="2142" max-vertical-offset="2934">
+          <caret line="146" column="16" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0230179" vertical-offset="3740" max-vertical-offset="66420">
-          <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
-          <folding />
+        <state vertical-scroll-proportion="0.35897437" vertical-offset="0" max-vertical-offset="4878">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test/on2012_10/on2012_10_14_OpenCup_SPb_GP/Phi/Phi.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntTreapArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31188118" vertical-offset="54" max-vertical-offset="828">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.34615386" vertical-offset="162" max-vertical-offset="2988">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/numbers/IntegerUtils.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/set/TreapSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33248082" vertical-offset="4244" max-vertical-offset="7614">
-          <caret line="254" column="23" selection-start-line="254" selection-start-column="23" selection-end-line="254" selection-end-column="23" />
-          <folding />
+        <state vertical-scroll-proportion="-1.5128205" vertical-offset="5733" max-vertical-offset="9018">
+          <caret line="325" column="20" selection-start-line="325" selection-start-column="20" selection-end-line="325" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/filter/Filter.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/CollectionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22277227" vertical-offset="0" max-vertical-offset="404">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
+        <state vertical-scroll-proportion="0.20521173" vertical-offset="0" max-vertical-offset="2034">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/sequence/StringWrapper.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44554454" vertical-offset="0" max-vertical-offset="468">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.26955074" vertical-offset="0" max-vertical-offset="990">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2011.10/2011.10.23 - CodeChef October Cook-Off/PermuteDigits.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/GTreapArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8267327" vertical-offset="334" max-vertical-offset="1926">
+        <state vertical-scroll-proportion="1.2307693" vertical-offset="3348" max-vertical-offset="4014">
+          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/2015.01/2015.01.08 - HackerRankW13/SwapsAndSums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/net/spak/InsaneDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5934066" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intervaltree/SumIntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1465798" vertical-offset="0" max-vertical-offset="614">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intervaltree/ArrayBasedIntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/on2013_06/on2013_06_07_June_Challenge_2013/Collecting_Magical_Berries/CollectingMagicalBerries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44925123" vertical-offset="0" max-vertical-offset="972">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/on2013_01/on2013_01_25_ACM_ICPC_Amritapuri_onsite_regionals_2012___Replay/Escape_from_the_Mines/EscapeFromTheMines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38110748" vertical-offset="54" max-vertical-offset="1566">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intervaltree/IntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6675824" vertical-offset="1089" max-vertical-offset="1584">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intervaltree/LongIntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3846154" vertical-offset="1287" max-vertical-offset="1638">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9478827" vertical-offset="45570" max-vertical-offset="65088">
+          <caret line="2617" column="24" selection-start-line="2617" selection-start-column="24" selection-end-line="2617" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/map/TreeCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2967033" vertical-offset="72" max-vertical-offset="522">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2051282" vertical-offset="35109" max-vertical-offset="40302">
+          <caret line="2136" column="17" selection-start-line="2136" selection-start-column="17" selection-end-line="2136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/net/spak/TeamFormation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43406594" vertical-offset="896" max-vertical-offset="1260">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/StronglyConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="36" max-vertical-offset="1440">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16179775" vertical-offset="0" max-vertical-offset="450">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/DFSOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.011235955" vertical-offset="95" max-vertical-offset="1404">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86633664" vertical-offset="32626" max-vertical-offset="54054">
+          <caret line="1901" column="18" selection-start-line="1901" selection-start-column="18" selection-end-line="1901" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main/net/egork/string/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35643566" vertical-offset="0" max-vertical-offset="3690">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="341" max-vertical-offset="3690">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/Deque.java">
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/Edge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33168316" vertical-offset="2746" max-vertical-offset="10026">
-          <caret line="193" column="17" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5990099" vertical-offset="820" max-vertical-offset="19386">
-          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intervaltree/HeavyLightDecomposition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.9309464" vertical-offset="3101" max-vertical-offset="3492">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#6881#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/map/CPPTreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15346535" vertical-offset="64" max-vertical-offset="576">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/CollectionUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0247525" vertical-offset="540" max-vertical-offset="2034">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/set/PersistentTreapSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3465347" vertical-offset="1882" max-vertical-offset="2286">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33168316" vertical-offset="2836" max-vertical-offset="3438">
-          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-          <folding />
+        <state vertical-scroll-proportion="0.094339624" vertical-offset="50" max-vertical-offset="522">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main/net/egork/misc/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32225063" vertical-offset="792" max-vertical-offset="11232">
-          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.45990565" vertical-offset="7293" max-vertical-offset="11232">
+          <caret line="441" column="39" selection-start-line="441" selection-start-column="39" selection-end-line="441" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/ShortestDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20518868" vertical-offset="57" max-vertical-offset="1620">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/net/spak/A.task">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/numbers/IntegerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33254716" vertical-offset="5727" max-vertical-offset="7614">
+          <caret line="341" column="26" selection-start-line="341" selection-start-column="26" selection-end-line="341" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/iss/RecursiveIndependentSetSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1062">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/GraphAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5182482" vertical-offset="471" max-vertical-offset="900">
+          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/MaxFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20518868" vertical-offset="1029" max-vertical-offset="1692">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="61" max-vertical-offset="7632">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/net/spak/MorganAndAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4625407" vertical-offset="916" max-vertical-offset="1530">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83775353" vertical-offset="118911" max-vertical-offset="124236">
+          <caret line="6760" column="23" selection-start-line="6760" selection-start-column="23" selection-end-line="6760" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35519126" vertical-offset="3362" max-vertical-offset="4734">
-          <caret line="221" column="24" selection-start-line="221" selection-start-column="24" selection-end-line="221" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.37634408" vertical-offset="182" max-vertical-offset="4734">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/main/net/spak/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0230179" vertical-offset="32576" max-vertical-offset="54018">
-          <caret line="1901" column="18" selection-start-line="1901" selection-start-column="18" selection-end-line="1901" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.91392404" vertical-offset="1333" max-vertical-offset="1728">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/DFSOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1465798" vertical-offset="0" max-vertical-offset="1404">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/net/spak/TeamFormation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67752445" vertical-offset="52" max-vertical-offset="666">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/BidirectionalGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33248082" vertical-offset="14" max-vertical-offset="1350">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#205#206#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.117263846" vertical-offset="54" max-vertical-offset="3006">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/intcollection/IntSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1465798" vertical-offset="0" max-vertical-offset="614">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/set/TreapSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327787" vertical-offset="6784" max-vertical-offset="9018">
-          <caret line="426" column="23" selection-start-line="426" selection-start-column="23" selection-end-line="426" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63366336" vertical-offset="5972" max-vertical-offset="7632">
-          <caret line="400" column="29" selection-start-line="400" selection-start-column="29" selection-end-line="400" selection-end-column="29" />
-          <folding>
-            <element signature="e#9566#9567#0" expanded="true" />
-            <element signature="e#9597#9598#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48081842" vertical-offset="4762" max-vertical-offset="8604">
-          <caret line="322" column="27" selection-start-line="322" selection-start-column="27" selection-end-line="322" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/collections/FenwickTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44554454" vertical-offset="0" max-vertical-offset="666">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CHelperReport.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="404">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/geometry/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31188118" vertical-offset="0" max-vertical-offset="1404">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/GraphAlgorithms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1980198" vertical-offset="10" max-vertical-offset="684">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main/net/egork/graph/MaxFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06435644" vertical-offset="100" max-vertical-offset="1692">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/net/spak/MorganAndAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62376237" vertical-offset="54" max-vertical-offset="1782">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -1,5 +1,7 @@
 package net.spak;
 
+
+
 import net.egork.collections.GTreapArray;
 import net.egork.collections.Pair;
 import net.egork.utils.io.InputReader;
