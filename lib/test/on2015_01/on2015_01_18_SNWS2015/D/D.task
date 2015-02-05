@@ -1,0 +1,40 @@
+1 D
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+15 2
+2
+2 4
+3
+2 0 2
+4 2
+2
+
+1
+1
+9 2
+1
+4
+1
+0
+3 0
+1
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+35 on2015_01.on2015_01_18_SNWS2015.D.D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+8 SNWS2015
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

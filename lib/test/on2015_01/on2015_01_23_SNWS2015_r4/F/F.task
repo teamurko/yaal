@@ -1,0 +1,51 @@
+1 F
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+105 3
+3 3 3
+ABY
+CAB
+ABX
+ABY
+CAB
+ABX
+4 3 4
+EGAM
+ARRC
+AFCM
+MAGE
+ARC
+ARA
+CF
+4 3 4
+EGAM
+ARRC
+AFCM
+MAGE
+ARC
+ARA
+CF
+20 empty spell
+ACM
+ACM
+
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+38 on2015_01.on2015_01_23_SNWS2015_r4.F.F
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.23
+11 SNWS2015_r4
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
