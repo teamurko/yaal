@@ -1,0 +1,35 @@
+20 B - Caisa and Pylons
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+12 5
+3 4 3 2 4
+
+2 4
+
+1
+1
+8 3
+4 4 4
+
+2 4
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+80 on2015_02.on2015_02_05_Codeforces_Round__264__Div__2_.B___Caisa_and_Pylons.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.05
+30 Codeforces Round #264 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
