@@ -1,0 +1,36 @@
+7 Spheres
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+60 2
+1 2
+0 0 0
+-1 0 0
+4 0 0
+1 0 0
+1 2
+0 0 0
+100 0 0
+4 0 0
+0 0 0
+6 NO
+YES
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+49 on2015_02.on2015_02_16_Hackerrank.Spheres.Spheres
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.16
+10 Hackerrank
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

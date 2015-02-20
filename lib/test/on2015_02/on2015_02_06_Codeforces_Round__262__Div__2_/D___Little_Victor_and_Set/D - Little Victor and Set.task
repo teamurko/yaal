@@ -1,0 +1,37 @@
+25 D - Little Victor and Set
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+7 8 15 3
+
+10 1
+2
+10 11
+
+1
+1
+7 8 30 7
+
+18 0
+5
+14 9 28 11 16
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+85 on2015_02.on2015_02_06_Codeforces_Round__262__Div__2_.D___Little_Victor_and_Set.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.06
+30 Codeforces Round #262 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

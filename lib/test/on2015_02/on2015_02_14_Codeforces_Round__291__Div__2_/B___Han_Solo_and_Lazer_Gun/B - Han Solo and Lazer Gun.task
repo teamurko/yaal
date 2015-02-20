@@ -1,0 +1,39 @@
+26 B - Han Solo and Lazer Gun
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+24 4 0 0
+1 1
+2 2
+2 0
+-1 -1
+
+2 2
+
+1
+1
+14 2 1 2
+1 1
+1 0
+
+2 1
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+86 on2015_02.on2015_02_14_Codeforces_Round__291__Div__2_.B___Han_Solo_and_Lazer_Gun.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.14
+30 Codeforces Round #291 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

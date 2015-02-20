@@ -1,0 +1,74 @@
+19 C - Drazil and Park
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+36 5 3
+2 2 2 2 2
+3 5 2 1 4
+1 3
+2 2
+4 5
+
+9 12
+16
+18
+
+1
+1
+28 3 3
+5 1 4
+5 1 4
+3 3
+2 2
+1 1
+
+9 17
+22
+11
+
+1
+2
+163 10 10
+8477 33103 38654 6582 27496 1106 15985 3644 29818 8849
+88745 72099 87767 85285 73517 94562 87214 63194 83791 77619
+2 8
+1 5
+9 5
+7 8
+6 9
+8 1
+6 1
+4 9
+8 10
+5 10
+
+70 383739
+394915
+364658
+509685
+428294
+439157
+386525
+394604
+480926
+428294
+
+1
+13 main/net/spak
+8 -Xmx512M
+4 Main
+79 on2015_02.on2015_02_19_Codeforces_Round__292__Div__1_.C___Drazil_and_Park.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.19
+30 Codeforces Round #292 (Div. 1)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
