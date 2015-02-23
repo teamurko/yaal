@@ -8,6 +8,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Function;
 
 /**
  * @author Egor Kulikov (kulikov@devexperts.com)
@@ -394,6 +395,20 @@ public class IntegerUtils {
 		for (int i = n - m + 1; i <= n; i++)
 			result = result * i % mod;
 		return result * BigInteger.valueOf(factorial(m, mod)).modInverse(BigInteger.valueOf(mod)).longValue() % mod;
+	}
+
+	public static long lucasBinomialCoefficient(long n, long m, int mod, Function<Integer, Integer> factorial) {
+		long res = 1;
+		while (n > 0 || m > 0) {
+			int n1 = (int) (n % mod);
+			int m1 = (int) (m % mod);
+			long choose = factorial(n1) * reverse(factorial(m1), mod) % mod * reverse(factorial(n1 - m1), mod) % mod;
+			res = (res * choose) % mod;
+			if (res == 0) break;
+			n /= mod;
+			m /= mod;
+		}
+		return res;
 	}
 
 	public static boolean isSquare(long number) {

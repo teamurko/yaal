@@ -7,8 +7,6 @@ import net.egork.collections.iss.RecursiveIndependentSetSystem;
 import net.egork.misc.ArrayUtils;
 import net.egork.utils.io.InputReader;
 import net.egork.utils.io.OutputWriter;
-import sun.awt.UNIXToolkit;
-import sun.org.mozilla.javascript.internal.Undefined;
 
 public class TaskD {
 	private static final int INF = (int) 1e8;

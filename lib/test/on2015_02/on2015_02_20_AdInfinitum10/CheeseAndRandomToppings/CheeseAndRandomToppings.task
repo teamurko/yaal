@@ -1,0 +1,36 @@
+23 CheeseAndRandomToppings
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+50 6
+5 2 1001
+5 2 6
+10 5 15
+20 6 210
+13 11 21
+10 9 5 
+16 10
+4
+12
+120
+15
+0
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+84 on2015_02.on2015_02_20_AdInfinitum10.CheeseAndRandomToppings.CheeseAndRandomToppings
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.20
+13 AdInfinitum10
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

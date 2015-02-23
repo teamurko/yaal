@@ -1,0 +1,29 @@
+14 AWierdFunction
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+10 2
+1 10
+2 5
+4 9
+2
+
+1
+13 main/net/spak
+16 -Xmx512m -Xss64m
+4 Main
+66 on2015_02.on2015_02_20_AdInfinitum10.AWierdFunction.AWierdFunction
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.20
+13 AdInfinitum10
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

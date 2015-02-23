@@ -1,0 +1,33 @@
+15 NumberOfSubsets
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+9 4
+1
+2
+3
+4
+12 2
+4
+32
+4096
+
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+24 net.spak.NumberOfSubsets
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.20
+13 AdInfinitum10
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
