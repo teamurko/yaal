@@ -26,20 +26,20 @@ public class FunWith1010 {
 		ans = (ans + 3 * (n + 2) % MOD * IntegerUtils.power(2, n - 1, MOD)) % MOD;
 		ans = (ans - 3 * (n + 2) % MOD * IntegerUtils.power(2, 2 * n - 1, MOD)) % MOD;
 		ans = (ans + MOD) % MOD;
-		ans = (ans + 3 * IntegerUtils.lucasBinomialCoefficient(2 * n, n, MOD, new Function<Integer, Integer>() {
+		ans = (ans + 3 * IntegerUtils.lucasBinomialCoefficient(2 * n, n, MOD, new Function<Integer, Long>() {
 			@Override
-			public Integer apply(Integer i) {
-				if (i < 0) return 0;
-				return factorial[i];
+			public Long apply(Integer i) {
+				if (i < 0) return 0L;
+				return (long) factorial[i];
 			}
 		}) * n % MOD * IntegerUtils.reverse(2, MOD)) % MOD;
 		ans = (ans + MOD) % MOD;
 		ans = (ans + (n + 2) % MOD * IntegerUtils.power(2, 3 * n - 1, MOD)) % MOD;
-		ans = (ans - IntegerUtils.lucasBinomialCoefficient(2 * n, n, MOD, new Function<Integer, Integer>() {
+		ans = (ans - IntegerUtils.lucasBinomialCoefficient(2 * n, n, MOD, new Function<Integer, Long>() {
 			@Override
-			public Integer apply(Integer i) {
-				if (i < 0) return 0;
-				return factorial[i];
+			public Long apply(Integer i) {
+				if (i < 0) return 0L;
+				return (long) factorial[i];
 			}
 		}) * 3 * n % MOD * IntegerUtils.reverse(4, MOD) % MOD
 					* IntegerUtils.power(2, n, MOD)) % MOD;

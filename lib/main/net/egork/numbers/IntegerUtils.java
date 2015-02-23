@@ -397,13 +397,17 @@ public class IntegerUtils {
 		return result * BigInteger.valueOf(factorial(m, mod)).modInverse(BigInteger.valueOf(mod)).longValue() % mod;
 	}
 
-	public static long lucasBinomialCoefficient(long n, long m, int mod, Function<Integer, Integer> factorial) {
+	public static long binomialCoefficient(int n, int m, long mod, Function<Integer, Long> f) {
+		if (m < 0 || m > n) return 0;
+		return f.apply(n) * reverse(f.apply(m), mod) % mod * reverse(f.apply(n - m), mod) % mod;
+	}
+
+	public static long lucasBinomialCoefficient(long n, long m, int mod, Function<Integer, Long> factorial) {
 		long res = 1;
 		while (n > 0 || m > 0) {
 			int n1 = (int) (n % mod);
 			int m1 = (int) (m % mod);
-			long choose = factorial(n1) * reverse(factorial(m1), mod) % mod * reverse(factorial(n1 - m1), mod) % mod;
-			res = (res * choose) % mod;
+			res = (res * binomialCoefficient(n1, m1, mod, factorial)) % mod;
 			if (res == 0) break;
 			n /= mod;
 			m /= mod;
