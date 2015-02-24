@@ -1,0 +1,31 @@
+12 FlippingBits
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+19 3 
+2147483647 
+1 
+0
+35 2147483648 
+4294967294 
+4294967295
+
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+21 net.spak.FlippingBits
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.23
+20 HackerrankProblemset
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
