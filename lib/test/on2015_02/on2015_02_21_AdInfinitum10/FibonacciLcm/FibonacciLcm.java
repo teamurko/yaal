@@ -6,10 +6,6 @@ import net.egork.collections.Pair;
 import net.egork.numbers.IntegerUtils;
 import net.egork.utils.io.InputReader;
 import net.egork.utils.io.OutputWriter;
-import sun.jvm.hotspot.jdi.IntegerTypeImpl;
-
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
