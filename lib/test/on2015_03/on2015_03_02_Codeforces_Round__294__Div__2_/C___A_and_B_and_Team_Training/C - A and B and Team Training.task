@@ -1,0 +1,33 @@
+29 C - A and B and Team Training
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+4 2 6
+
+2 2
+
+1
+1
+4 4 5
+
+2 3
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+89 on2015_03.on2015_03_02_Codeforces_Round__294__Div__2_.C___A_and_B_and_Team_Training.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.02
+30 Codeforces Round #294 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1
