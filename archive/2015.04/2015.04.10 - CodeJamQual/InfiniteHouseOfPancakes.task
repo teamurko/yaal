@@ -1,0 +1,34 @@
+23 InfiniteHouseOfPancakes
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+19 3
+1
+3
+4
+1 2 1 2
+1
+4
+33 Case #1: 3
+Case #2: 2
+Case #3: 3
+
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+32 net.spak.InfiniteHouseOfPancakes
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.10
+11 CodeJamQual
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

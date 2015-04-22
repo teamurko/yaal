@@ -1,0 +1,30 @@
+10 StatWarmup
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+61 10
+64630 11735 14216 99233 14470 4978 73429 38120 51135 67060
+44 43900.6
+44627.5
+4978
+30466.9
+25017.0 62784.2
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+19 net.spak.StatWarmup
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.03
+19 HackerankProblemset
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

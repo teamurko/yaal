@@ -1,0 +1,38 @@
+12 OminousOmino
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+26 4
+2 2 2
+2 1 3
+4 4 1
+3 2 3
+
+67 Case #1: GABRIEL
+Case #2: RICHARD
+Case #3: RICHARD
+Case #4: GABRIEL
+0
+1
+8 1
+6 5 20
+-1
+1
+13 main/net/spak
+16 -Xmx256m -Xss64m
+4 Main
+21 net.spak.OminousOmino
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.10
+11 CodeJamQual
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

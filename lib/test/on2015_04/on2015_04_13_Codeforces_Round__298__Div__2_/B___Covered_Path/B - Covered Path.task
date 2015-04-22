@@ -1,0 +1,33 @@
+16 B - Covered Path
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+8 5 6
+4 2
+
+2 26
+1
+1
+11 10 10
+10 0
+
+3 100
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+76 on2015_04.on2015_04_13_Codeforces_Round__298__Div__2_.B___Covered_Path.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.13
+30 Codeforces Round #298 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

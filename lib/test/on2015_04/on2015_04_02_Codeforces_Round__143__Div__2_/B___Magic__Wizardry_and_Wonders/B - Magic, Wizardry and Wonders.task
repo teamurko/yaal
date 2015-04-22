@@ -1,0 +1,37 @@
+31 B - Magic, Wizardry and Wonders
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+6 3 3 2
+
+6 2 1 2 
+1
+1
+7 5 -4 3
+
+3 -1
+
+1
+2
+7 5 -4 4
+
+10 2 4 1 4 1 
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+91 on2015_04.on2015_04_02_Codeforces_Round__143__Div__2_.B___Magic__Wizardry_and_Wonders.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.02
+30 Codeforces Round #143 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

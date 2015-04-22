@@ -1,0 +1,42 @@
+14 D - Handshakes
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+12 5
+2 1 3 0 1
+
+19 Possible
+4 5 1 3 2 
+0
+1
+20 9
+0 2 3 4 1 1 0 2 2
+
+26 Possible
+7 5 2 1 6 8 3 4 9
+0
+2
+10 4
+0 2 1 1
+
+11 Impossible
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+14 net.spak.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.13
+30 Codeforces Round #298 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

@@ -1,0 +1,45 @@
+24 A - Two Semiknights Meet
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+147 2
+........
+........
+......#.
+K..##..#
+.......#
+...##..#
+......#.
+K.......
+
+........
+........
+..#.....
+..#..#..
+..####..
+...##...
+........
+....K#K#
+
+7 YES
+NO
+
+1
+13 main/net/spak
+8 -Xmx256M
+4 Main
+84 on2015_03.on2015_03_19_Codeforces_Round__212__Div__2_.A___Two_Semiknights_Meet.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.19
+30 Codeforces Round #212 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+1

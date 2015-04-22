@@ -19,6 +19,6 @@
     </orderEntry>
     <orderEntry type="library" exported="" name="CHelper" level="project" />
     <orderEntry type="library" name="junit-4.10" level="project" />
-    <orderEntry type="library" name="junit-4.10" level="project" />
+    <orderEntry type="library" name="com.google.guava:guava-collections:r03" level="project" />
   </component>
 </module>
